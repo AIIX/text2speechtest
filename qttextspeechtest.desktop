@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Text2SpeechTest
+Exec=qttextspeechtest
+Icon=speaker
